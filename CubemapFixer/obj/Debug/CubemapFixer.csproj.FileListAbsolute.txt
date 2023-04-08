@@ -1,0 +1,7 @@
+C:\Users\SKITLSE\source\repos\CubemapFixer\bin\Debug\CubemapFixer.exe.config
+C:\Users\SKITLSE\source\repos\CubemapFixer\bin\Debug\CubemapFixer.exe
+C:\Users\SKITLSE\source\repos\CubemapFixer\bin\Debug\CubemapFixer.pdb
+C:\Users\SKITLSE\source\repos\CubemapFixer\obj\Debug\CubemapFixer.csproj.AssemblyReference.cache
+C:\Users\SKITLSE\source\repos\CubemapFixer\obj\Debug\CubemapFixer.csproj.CoreCompileInputs.cache
+C:\Users\SKITLSE\source\repos\CubemapFixer\obj\Debug\CubemapFixer.exe
+C:\Users\SKITLSE\source\repos\CubemapFixer\obj\Debug\CubemapFixer.pdb
